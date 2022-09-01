@@ -16,7 +16,7 @@ public class FizzBuzzTest {
 
         //then
 
-        assertEquals("FizzBuz", actual);
+        assertEquals("FizzBuzz", actual);
     }
 
     @Test
